@@ -1,0 +1,38 @@
+E:\Desktop\RAMIL\KaspiStruct4\KaspiStruct\KaspiStruct\bin\Debug\KaspiStruct.exe.config
+E:\Desktop\RAMIL\KaspiStruct4\KaspiStruct\KaspiStruct\bin\Debug\KaspiStruct.exe
+E:\Desktop\RAMIL\KaspiStruct4\KaspiStruct\KaspiStruct\bin\Debug\KaspiStruct.pdb
+E:\Desktop\RAMIL\KaspiStruct4\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.csprojAssemblyReference.cache
+E:\Desktop\RAMIL\KaspiStruct4\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.Form1.resources
+E:\Desktop\RAMIL\KaspiStruct4\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.Properties.Resources.resources
+E:\Desktop\RAMIL\KaspiStruct4\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.csproj.GenerateResource.cache
+E:\Desktop\RAMIL\KaspiStruct4\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.csproj.CoreCompileInputs.cache
+E:\Desktop\RAMIL\KaspiStruct4\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.exe
+E:\Desktop\RAMIL\KaspiStruct4\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.pdb
+E:\Desktop\RAMIL\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\bin\Debug\KaspiStruct.exe.config
+E:\Desktop\RAMIL\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\bin\Debug\KaspiStruct.exe
+E:\Desktop\RAMIL\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\bin\Debug\KaspiStruct.pdb
+E:\Desktop\RAMIL\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.csprojAssemblyReference.cache
+E:\Desktop\RAMIL\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.Form1.resources
+E:\Desktop\RAMIL\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.Properties.Resources.resources
+E:\Desktop\RAMIL\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.csproj.GenerateResource.cache
+E:\Desktop\RAMIL\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.csproj.CoreCompileInputs.cache
+E:\Desktop\RAMIL\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.exe
+E:\Desktop\RAMIL\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.pdb
+E:\Desktop\2\GitProjects\C#\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\bin\Debug\KaspiStruct.exe.config
+E:\Desktop\2\GitProjects\C#\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\bin\Debug\KaspiStruct.exe
+E:\Desktop\2\GitProjects\C#\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\bin\Debug\KaspiStruct.pdb
+E:\Desktop\2\GitProjects\C#\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.csprojAssemblyReference.cache
+E:\Desktop\2\GitProjects\C#\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.Form1.resources
+E:\Desktop\2\GitProjects\C#\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.Properties.Resources.resources
+E:\Desktop\2\GitProjects\C#\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.csproj.GenerateResource.cache
+E:\Desktop\2\GitProjects\C#\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.exe
+E:\Desktop\2\GitProjects\C#\KaspiOOPStructSRS\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.pdb
+E:\Desktop\2\GitProjects\C#\5. shop_add_search_goods\KaspiStruct\KaspiStruct\bin\Debug\KaspiStruct.exe.config
+E:\Desktop\2\GitProjects\C#\5. shop_add_search_goods\KaspiStruct\KaspiStruct\bin\Debug\KaspiStruct.exe
+E:\Desktop\2\GitProjects\C#\5. shop_add_search_goods\KaspiStruct\KaspiStruct\bin\Debug\KaspiStruct.pdb
+E:\Desktop\2\GitProjects\C#\5. shop_add_search_goods\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.csprojAssemblyReference.cache
+E:\Desktop\2\GitProjects\C#\5. shop_add_search_goods\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.Form1.resources
+E:\Desktop\2\GitProjects\C#\5. shop_add_search_goods\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.Properties.Resources.resources
+E:\Desktop\2\GitProjects\C#\5. shop_add_search_goods\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.csproj.GenerateResource.cache
+E:\Desktop\2\GitProjects\C#\5. shop_add_search_goods\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.exe
+E:\Desktop\2\GitProjects\C#\5. shop_add_search_goods\KaspiStruct\KaspiStruct\obj\Debug\KaspiStruct.pdb
